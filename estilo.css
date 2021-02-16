@@ -29,7 +29,7 @@ body{
     margin-right: auto;
     background-color: #D8D5DB;
     font-size: 20px;
-    height: auto;
+    height: 780px;
     width: 1070px;
     padding: 20px;
 }
@@ -42,9 +42,7 @@ body{
 footer {
     position: absolute;
     bottom: 0;
-    color: #FFF;
-    width: 99%;
-    height: 100px;    
-    text-align: center;
+    width: 100%;
+    height: 100px;   
     line-height: 100px;
 }

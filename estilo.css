@@ -18,26 +18,43 @@ body{
     margin-left: auto;
     margin-right: auto;
     background-color: #D8D5DB;
-    height: 85px;
+    height: 90px;
     width: 600px;
     font-size: 21px;
+    letter-spacing: 3px;
 }
 
 #introducao{
     margin-top: 25px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 22%;
+    margin-right: 30%;
     background-color: #D8D5DB;
     font-size: 20px;
     height: 780px;
     width: 1070px;
     padding: 20px;
+    position: absolute;
 }
 
 #botao{
-    margin-left: auto;
-    margin-right: auto;
+    text-align: right;
+    margin-right: 7%;
 }
+
+#botao2{
+    text-align: right;
+    margin-right: 7%;
+    margin-top: 10%;
+}
+
+
+#botao3{
+    text-align: right;
+    margin-right: 7%;
+    margin-top: 10%;
+}
+
+
 
 footer {
     position: absolute;
